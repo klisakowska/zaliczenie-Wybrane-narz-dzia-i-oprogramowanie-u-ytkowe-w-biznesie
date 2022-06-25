@@ -1,1 +1,1 @@
-# zaliczenie-Wybrane-narz-dzia-i-oprogramowanie-u-ytkowe-w-biznesie
+# zaliczenie Wybrane narzędzia i oprogramowanie użytkowe w biznesie
