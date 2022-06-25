@@ -1,0 +1,10 @@
+2. Jakimi poleceniami zbadałbyś status zmian w repozytorium git, następnie dodał brakujące
+pliki(wszystkie), potwierdził i wysłał do zdalnego repozytorium(adres dowolny)? (4 punkty)
+
+Zbadanie statusu repozytorium - git status
+Dodanie wszystkich plików - git add .
+Potwierdzenie - robię commita - git commit -m "Add new files" 
+Wysłanie do reposytorium - git push 
+Ostatnie polecenie wysyła do repozytorum zdefiniowanego jako origin w git configu. Aby dodać nowe repozytorium, należy użyć poniższej komendy (można użyć też innej nazwy
+niż origin)
+git remote add origin https://github.com/klisakowska/zaliczenie-Wybrane-narz-dzia-i-oprogramowanie-u-ytkowe-w-biznesie.git
